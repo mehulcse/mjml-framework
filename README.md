@@ -6,7 +6,7 @@ A local development setup or boilerplate for [MJML email framework](https://mjml
 1. Installation
 
 ```bash
-cd mjml-email-framework-boilerplate
+cd mjml-framework
 yarn install
 ```
 
