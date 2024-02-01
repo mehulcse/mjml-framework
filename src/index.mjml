@@ -1,0 +1,246 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-all font-family="Montserrat, Helvetica, Arial, sans-serif"></mj-all>
+            <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px"></mj-text>
+
+            <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+        <mj-style>
+            .border-full div {
+                border:1px solid white
+            }
+            .rotate div {
+                position: relative;
+                top: -2.2rem;
+            }
+            .bold div {
+                font-weight: 500;
+            }
+        </mj-style>
+
+    </mj-head>
+    <mj-body background-color="#FFFFFF">
+        <mj-section padding-top="15px">
+            <mj-column width="100%" background-color="#D5B2A0">
+                <mj-image align="center" width="83px" height="83px" src="https://ik.imagekit.io/wwkpdgd4k/common-images/baby-sleeping-3078789-2558805_3_360.png?updatedAt=1706179781624"> </mj-image>
+                <mj-text align="center" padding-bottom="0px" css-class="rotate" font-size="15px" font-weight="500" color="#FFFFFF">KiddoCave</mj-text>
+
+            </mj-column>
+        </mj-section>
+        <mj-section padding="20px 20px 0 20px" background-color="#FFFFFF">
+            <mj-column>
+                <mj-text align="center" line-height="34.89px" font-size="30px" font-weight="700">Hello, Lorem</mj-text>
+                <mj-text align="center" font-size="18px" font-weight="400" line-height="20.7px" padding-bottom="23px">Your Order is on its way.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFF5ED">
+            <mj-column>
+                <mj-text align="center" font-family="inter" font-weight="500" font-size="21px" line-height="25.41px" color="#1F1F1F">Great News From Kiddo cave</mj-text>
+                <mj-text align="center" font-weight="400" font-family="inter" font-size="14px" line-height="21.63px" color="#272727">We're thrilled to inform you that your order has been dispatched.Your tracking code is: [Tracking Number].Click the button below to monitor your package.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section border="2px dashed gray" background-color="#">
+
+            <mj-column>
+                <mj-text font-family="inter" font-size="25px" font-weight="400" line-height="30.26px" color="#282828">Here's A Recap Of Your Purchase</mj-text>
+                <mj-table line-height="40.50px">
+
+                    <tr>
+                        <td style="padding: 0 15px 0 0;">Cradle Pro</td>
+                        <td style="padding: 0 15px;">Quantity 1</td>
+                        <td style="font-weight:bold; padding: 0 0 0 15px; ">$1600.00</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 0 15px 0 0;">Cradle Pro</td>
+                        <td style="padding: 0 15px;">Quantity 1</td>
+                        <td style="font-weight:bold; padding: 0 0 0 15px;">$1600.00</td>
+                    </tr>
+                    <tr style="border-bottom:1px dashed;text-align:left;padding:15px 0;  ">
+                        <td style="padding: 0 15px 0 0;"></td>
+                        <td style="padding: 0 15px;">SubTotal</td>
+                        <td style="font-weight:bold; padding: 0 0 0 15px;">$3200.00</td>
+                    </tr>
+
+                    <tr>
+                        <td style="padding: 0 15px 0 0;"></td>
+                        <td style="padding: 0 15px;">Discount</td>
+                        <td style="font-weight:bold; padding: 0 0 0 15px;">$100.00</td>
+
+                    </tr>
+                    <tr>
+                        <td style="padding: 0 15px 0 0;"></td>
+                        <td style="padding: 0 15px;">Shipping</td>
+                        <td style="font-weight:bold; padding: 0 0 0 15px;">$100.00</td>
+
+                    </tr>
+                    <tr>
+                        <td style="padding: 0 15px 0 0;"></td>
+                        <td style="padding: 0 15px;">CGST</td>
+                        <td style="font-weight:bold; padding: 0 0 0 15px;">$100.00</td>
+
+                    </tr>
+                    <tr>
+                        <td style="padding: 0 15px 0 0;"></td>
+                        <td style="padding: 0 15px;">SGST</td>
+                        <td style="font-weight:bold; padding: 0 0 0 15px;">$100.00</td>
+
+                    </tr>
+                    <tr>
+                        <td style="padding: 0 15px 0 0;"></td>
+                        <td style="padding: 0 15px;">TOTAL GST</td>
+                        <td style="font-weight:bold; padding: 0 0 0 15px;">$200.00</td>
+
+                    </tr>
+                    <tr style="border-bottom:1px dashed ;text-align:left;padding:15px 0; ">
+                        <td style="padding: 0 15px 0 0;"></td>
+                        <td style="padding: 0 15px;">SubTotal</td>
+                        <td style="font-weight:bold; padding: 0 0 0 15px;">$3200.00</td>
+
+                    </tr>
+                    <tr>
+                        <td style="padding: 0 15px 0 0;"></td>
+                        <td style="padding: 0 15px;">Total Amount</td>
+                        <td style="font-weight:bold; padding: 0 0 0 15px;">$3400.00</td>
+                    </tr>
+                </mj-table>
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section padding-left="20px" background-color="#FFFFFF">
+
+            <mj-column>
+                <mj-text align="left" font-family="inter" font-size="15px" line-height="22.5px" font-weight="500" color="#050304">
+                    Shipping To:
+                </mj-text>
+                <mj-text color="#000000" font-weight="400" font-size="10px" line-height="15.57px">
+                    <p>
+                        Lorem ipsum
+                    </p>
+                    <p>Lorem ipsum,giving</p>
+                    <p>Lorem,38001</p>
+                    <p>india (123) 456-5654</p>
+                </mj-text>
+            </mj-column>
+
+            <mj-column>
+                <mj-text font-size="15px" font-family="inter" line-height="22.5px" font-weight="500" color="#050304">
+                    Billing To:
+                </mj-text>
+                <mj-text color="#000000" font-weight="400" font-size="10px" line-height="15.57px">
+                    <p>
+                        Lorem ipsum
+                    </p>
+                    <p>Lorem ipsum,giving</p>
+                    <p>Lorem,38001</p>giti
+                    <p>india (123) 456-5654</p>
+                </mj-text>
+            </mj-column>
+
+            <mj-column>
+                <mj-text font-family="inter" font-size="15px" line-height="22.5px" font-weight="500" color="#050304">
+                    Expected Delivery Date
+                </mj-text>
+                <mj-text color="#000000" font-weight="400" font-size="10px" line-height="15.57px">
+                    01/02/2024
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+
+
+        <mj-section padding-left="45px" padding-top="25px" background-color="#FFF5ED">
+            <mj-column>
+                <mj-image width="50px" src="https://ik.imagekit.io/wwkpdgd4k/logistic-promotions/payment-security-2.png" align="left"></mj-image>
+                <mj-text letter-spacing="0.5px" font-weight="400" line-height="17.94px" font-size="13px" color="#424141">
+                    <p>Payment Security</p>
+                </mj-text>
+            </mj-column>
+
+            <mj-column>
+                <mj-image width="53px" src="https://ik.imagekit.io/wwkpdgd4k/logistic-promotions/fast-delivery-2.png" align="left"></mj-image>
+                <mj-text font-weight="400" line-height="17.94px" font-size="13px" color="#424141">
+                    <p>Fast Shipping</p>
+                </mj-text>
+            </mj-column>
+
+            <mj-column>
+                <mj-image width="50px" src="https://ik.imagekit.io/wwkpdgd4k/logistic-promotions/products-quality-1.png" align="left"></mj-image>
+                <mj-text letter-spacing="0.5px" font-weight="400" line-height="17.94px" font-size="13px" color="#424141">
+                    <p>Products Quality</p>
+                </mj-text>
+            </mj-column>
+
+            <mj-column>
+                <mj-image width="50px" src="https://ik.imagekit.io/wwkpdgd4k/logistic-promotions/dedicated-support-2.png" align="left"></mj-image>
+                <mj-text font-weight="400" line-height="17.94px" font-size="13px" color="#424141">
+                    <p>Dedicated Support</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+
+
+        <mj-section background-color="#D5B2A0" padding-top="20px" padding-left="100px" padding-right="100px">
+            <mj-column>
+                <mj-image width="30px" src="https://ik.imagekit.io/wwkpdgd4k/common-images/twitter_360.png?updatedAt=1706176902240"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-image width="30px" src="https://ik.imagekit.io/wwkpdgd4k/common-images/linkedin_360.png?updatedAt=1706176919778"></mj-image>
+            </mj-column>
+
+            <mj-column>
+                <mj-image width="15px" src="https://ik.imagekit.io/wwkpdgd4k/common-images/facebook_360.png?updatedAt=1706176841592"></mj-image>
+            </mj-column>
+
+            <mj-column>
+                <mj-image width="25px" src="https://ik.imagekit.io/wwkpdgd4k/common-images/pinterest_360.png?updatedAt=1706176865999"></mj-image>
+            </mj-column>
+
+            <mj-column>
+                <mj-image width="17px" src="https://ik.imagekit.io/wwkpdgd4k/common-images/t.png?updatedAt=1706177303210"></mj-image>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#D5B2A0">
+            <mj-column>
+                <mj-text align="left" css-class="border-full"></mj-text>
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section background-color="#D5B2A0" padding-left="40px" padding-right="40px">
+            <mj-column>
+                <mj-text color="#FFFFFF">
+                    Home
+                </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FFFFFF">
+                    Product
+                </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FFFFFF">
+                    Contact Us
+                </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FFFFFF">
+                    About Us
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#D5B2A0">
+            <mj-column>
+                <mj-text align="left" css-class="border-full"></mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-bottom="10px" background-color="#D5B2A0">
+            <mj-column>
+                <mj-text align="center" text-decoration="none" color="white"> <a href="#">Unsubscribe Link</a> </mj-text>
+            </mj-column>
+        </mj-section
+    </mj-body>
+</mjml>
